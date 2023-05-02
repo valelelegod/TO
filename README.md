@@ -1,0 +1,2 @@
+# TO
+Tehnici de Optimizare
